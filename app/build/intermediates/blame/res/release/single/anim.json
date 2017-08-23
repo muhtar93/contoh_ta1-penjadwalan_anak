@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/anim/design_snackbar_out.xml",
+        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/anim/design_snackbar_out.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/anim/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/anim/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/anim/design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/anim/design_snackbar_in.xml",
+        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/anim/design_snackbar_in.xml"
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/menu/navigation.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/menu/navigation.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\src\\main\\res\\menu\\navigation.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/menu/main_menu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\src\\main\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\menu\\navigation.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\src\\main\\res\\menu\\navigation.xml"
+    }
+]

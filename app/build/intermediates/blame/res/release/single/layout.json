@@ -1,0 +1,470 @@
+[
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/notification_template_custom_big.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/design_bottom_navigation_item.xml",
+        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/layout/design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/list_row_reward_history_child.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/list_row_reward_history_child.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_profil_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_profil_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/design_navigation_item.xml",
+        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/list_row_notification_schedule_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/list_row_notification_schedule_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_detail_data_child_parent.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_detail_data_child_parent.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_forgot_password.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/notification_update_count.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/notification_update_count.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_child_menu_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_child_menu_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_notification_reward_parent.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_notification_reward_parent.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/list_row_menu_schedule_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/list_row_menu_schedule_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_main_menu_child.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_main_menu_child.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_schedule_notif.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_schedule_notif.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/list_row_history_schedule_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/list_row_history_schedule_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/list_row_reward.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/list_row_reward.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_detail_schedule_child.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_detail_schedule_child.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_history_reward_child.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_history_reward_child.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/list_row_menu_child_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/list_row_menu_child_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/design_layout_tab_icon.xml",
+        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_add_schedule2.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_add_schedule2.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/list_row_notification_schedule.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/list_row_notification_schedule.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_history_reward.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_history_reward.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_main_menu_parent.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_main_menu_parent.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_history_reward_menu_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_history_reward_menu_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_notification.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_notification.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/list_row_history_schedule.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/list_row_history_schedule.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/list_row_schedule.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/list_row_schedule.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_splash_screen.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_before_login.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_before_login.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_reward_notif.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_reward_notif.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_detail_reward_parent.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_detail_reward_parent.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_reward.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_reward.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_edit_schedule.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_edit_schedule.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_schedule_menu_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_schedule_menu_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/content_setting_menu_child.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/content_setting_menu_child.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_register.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_register.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_notification_reward_menu_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_notification_reward_menu_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/design_layout_tab_text.xml",
+        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_detail_reward_child.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_detail_reward_child.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_add_reward.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_add_reward.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/design_navigation_menu.xml",
+        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/list_row_menu_reward_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/list_row_menu_reward_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/list_row_reward_notification.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/list_row_reward_notification.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/design_navigation_menu_item.xml",
+        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_history_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_history_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_setting_menu_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_setting_menu_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_detail_child.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_detail_child.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_reward_menu_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_reward_menu_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_edit_reward_parent.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_edit_reward_parent.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_notification_schedule_menu_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_notification_schedule_menu_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/list_row_history_reward_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/list_row_history_reward_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_login.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_login_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_login_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/design_text_input_password_icon.xml",
+        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/design_navigation_item_separator.xml",
+        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_schedule.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_schedule.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_add_child.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_add_child.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_edit_schedule_child.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_edit_schedule_child.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_history_schedule.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_history_schedule.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_settings.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/design_navigation_item_header.xml",
+        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_history_schedule_menu_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_history_schedule_menu_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/design_menu_item_action_area.xml",
+        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/design_layout_snackbar.xml",
+        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_profil_anak.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_profil_anak.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/content_setting_menu_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/content_setting_menu_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_edit_profile_parent.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_edit_profile_parent.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_notifikasi_schedule_parent.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_notifikasi_schedule_parent.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/activity_notification_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/activity_notification_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/content_main.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/content_main.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/list_row_notification_reward_ortu.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/list_row_notification_reward_ortu.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/fragment_setting_child.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/fragment_setting_child.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/list_row_notification.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/list_row_notification.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/layout/list_row_history_reward.xml",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/layout/list_row_history_reward.xml"
+    }
+]

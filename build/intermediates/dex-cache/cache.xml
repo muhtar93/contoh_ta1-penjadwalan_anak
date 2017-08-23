@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_93bd479fee25c9dc14996ba1335fb3f28d8fb1a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="27704675e961d741e79bf8fcb293cb6e4dba40a4">
+        <dex dex="/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3be3d2fb81806c122d6ad9d5c32b653f4a260178/classes.dex" />
+    </item>
+
+</items>

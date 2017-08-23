@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/profile_anak"
+        android:icon="@drawable/ic_face_white_24dp"
+        android:title="Profil Anak" />
+
+    <item
+        android:id="@+id/profile_ortu"
+        android:icon="@drawable/ic_perm_identity_white_24dp"
+        android:title="Profil Orang Tua" />
+
+</menu>

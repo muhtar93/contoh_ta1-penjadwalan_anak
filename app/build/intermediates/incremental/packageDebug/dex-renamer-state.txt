@@ -1,0 +1,7 @@
+#Thu Aug 24 02:24:39 WIB 2017
+base.0=/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3be3d2fb81806c122d6ad9d5c32b653f4a260178
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_93bd479fee25c9dc14996ba1335fb3f28d8fb1a6/classes.dex
+base.1=/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_93bd479fee25c9dc14996ba1335fb3f28d8fb1a6
+file.0=/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_3be3d2fb81806c122d6ad9d5c32b653f4a260178/classes.dex

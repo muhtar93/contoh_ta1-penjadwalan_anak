@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/mipmap-xxhdpi/ic_notification.png",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/mipmap-xxhdpi/ic_notification.png"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/mipmap-xxhdpi/ic_gift.png",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/mipmap-xxhdpi/ic_gift.png"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/mipmap-xxhdpi/ic_launcher_sfk.png",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/mipmap-xxhdpi/ic_launcher_sfk.png"
+    },
+    {
+        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/release/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/muhtar/Downloads/FamilyTask/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]
