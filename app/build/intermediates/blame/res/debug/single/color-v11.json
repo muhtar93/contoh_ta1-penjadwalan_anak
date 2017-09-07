@@ -1,34 +1,10 @@
 [
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
+        "source": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     },
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\3cd4a98f1b86e352ccf2feb433474c86abc2705d\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\3cd4a98f1b86e352ccf2feb433474c86abc2705d\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
+        "source": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     }
 ]

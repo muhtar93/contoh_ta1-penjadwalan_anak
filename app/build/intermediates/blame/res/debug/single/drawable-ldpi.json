@@ -1,26 +1,18 @@
 [
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_wc_black_24dp.png",
-        "source": "/Users/muhtar/Downloads/FamilyTask/app/build/generated/res/pngs/debug/drawable-ldpi/ic_wc_black_24dp.png"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_email_black_24dp.png",
+        "source": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_email_black_24dp.png"
     },
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_date_range_black_24dp.png",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_date_range_black_24dp.png"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_wc_black_24dp.png",
+        "source": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_wc_black_24dp.png"
     },
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_date_range_black_24dp.png",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_date_range_black_24dp.png"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_date_range_black_24dp.png",
+        "source": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_date_range_black_24dp.png"
     },
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_assignment_ind_black_24dp.png",
-        "source": "/Users/muhtar/Downloads/FamilyTask/app/build/generated/res/pngs/debug/drawable-ldpi/ic_assignment_ind_black_24dp.png"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_email_black_24dp.png",
-        "source": "/Users/muhtar/Downloads/FamilyTask/app/build/generated/res/pngs/debug/drawable-ldpi/ic_email_black_24dp.png"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/drawable-ldpi/ic_date_range_black_24dp.png",
-        "source": "/Users/muhtar/Downloads/FamilyTask/app/build/generated/res/pngs/debug/drawable-ldpi/ic_date_range_black_24dp.png"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_assignment_ind_black_24dp.png",
+        "source": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_assignment_ind_black_24dp.png"
     }
 ]

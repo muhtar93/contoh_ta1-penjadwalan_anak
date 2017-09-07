@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "outputFile": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -11,79 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\cede156906c1a8be6a17d8e374a485061ee7f85e\\output\\res\\values\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 45,
-                        "endOffset": 270
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 45,
-                    "endOffset": 96
-                },
-                "from": {
-                    "file": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\9f282f39f1a4506a94974eed3c261a96e47eb623\\output\\res\\values\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 45,
-                        "endOffset": 270
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 45,
-                    "endOffset": 96
-                },
-                "from": {
-                    "file": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\9f282f39f1a4506a94974eed3c261a96e47eb623\\output\\res\\values\\values.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 229,
-                        "endColumn": 45,
-                        "endOffset": 270
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 45,
-                    "endOffset": 96
-                },
-                "from": {
-                    "file": "/Users/muhtar/.android/build-cache/cede156906c1a8be6a17d8e374a485061ee7f85e/output/res/values/values.xml",
+                    "file": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\9f282f39f1a4506a94974eed3c261a96e47eb623\\output\\res\\values\\values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

@@ -1,34 +1,10 @@
 [
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\bfa893fd5b4572287467767f3dfcf301dcd40975\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\bfa893fd5b4572287467767f3dfcf301dcd40975\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\bfa893fd5b4572287467767f3dfcf301dcd40975\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
-        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\2332b9b81c0cb7fc7879cb0c1878b00f08e7e020\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\bfa893fd5b4572287467767f3dfcf301dcd40975\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\2332b9b81c0cb7fc7879cb0c1878b00f08e7e020\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\bfa893fd5b4572287467767f3dfcf301dcd40975\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
-        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\bfa893fd5b4572287467767f3dfcf301dcd40975\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     }
 ]

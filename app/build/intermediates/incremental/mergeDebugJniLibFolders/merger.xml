@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="/Users/muhtar/Downloads/FamilyTask/app/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/muhtar/Downloads/FamilyTask/app/src/debug/jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="F:\contoh_ta1-penjadwalan_anak\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="F:\contoh_ta1-penjadwalan_anak\app\src\debug\jniLibs"/></dataSet></merger>

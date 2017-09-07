@@ -1,5 +1,6 @@
 package sfk.project.com.scheduleforkids;
 
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.design.widget.TabLayout;
@@ -8,6 +9,7 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.MenuItemCompat;
 import android.support.v4.view.ViewPager;
+import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
@@ -22,6 +24,7 @@ public class MainMenuParentActivity extends AppCompatActivity {
     private Toolbar toolbar;
     private TabLayout tabLayout;
     private ViewPager viewPager;
+    SessionParent session;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -90,12 +93,40 @@ public class MainMenuParentActivity extends AppCompatActivity {
         return super.onCreateOptionsMenu(menu);
     }
 
+    private void showAlertDialogLogOut(){
+        AlertDialog alertDialog;
+        AlertDialog.Builder alertDialogBuilder = new AlertDialog.Builder(MainMenuParentActivity.this);
+        alertDialogBuilder
+                .setTitle("Log Out")
+                .setCancelable(true)
+                .setMessage("Do you want to log out?")
+                .setPositiveButton("Yes", new DialogInterface.OnClickListener() {
+
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        // TODO Auto-generated method stub
+                        session.logoutUser();
+                    }
+                })
+                .setNegativeButton("No", new DialogInterface.OnClickListener() {
+
+                    @Override
+                    public void onClick(DialogInterface dialog, int which) {
+                        // TODO Auto-generated method stub
+                        dialog.cancel();
+                    }
+                });
+
+        alertDialog = alertDialogBuilder.create();
+        alertDialog.show();
+    }
+
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
 
         if (id == R.id.logout){
-            finish();
+            showAlertDialogLogOut();
         }
 
         if (id == R.id.history){

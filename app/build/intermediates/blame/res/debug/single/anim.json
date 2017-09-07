@@ -1,226 +1,58 @@
 [
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\bfa893fd5b4572287467767f3dfcf301dcd40975\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\bfa893fd5b4572287467767f3dfcf301dcd40975\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
-        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_slide_in_top.xml"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\bfa893fd5b4572287467767f3dfcf301dcd40975\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\3cd4a98f1b86e352ccf2feb433474c86abc2705d\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\bfa893fd5b4572287467767f3dfcf301dcd40975\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_slide_out_bottom.xml"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\2332b9b81c0cb7fc7879cb0c1878b00f08e7e020\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
-        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_popup_exit.xml"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\bfa893fd5b4572287467767f3dfcf301dcd40975\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/anim/design_snackbar_in.xml",
-        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/anim/design_snackbar_in.xml"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\bfa893fd5b4572287467767f3dfcf301dcd40975\\output\\res\\anim\\design_snackbar_out.xml"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\bfa893fd5b4572287467767f3dfcf301dcd40975\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\3cd4a98f1b86e352ccf2feb433474c86abc2705d\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\bfa893fd5b4572287467767f3dfcf301dcd40975\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\3cd4a98f1b86e352ccf2feb433474c86abc2705d\\output\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\bfa893fd5b4572287467767f3dfcf301dcd40975\\output\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_in.xml",
-        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/anim/design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\3cd4a98f1b86e352ccf2feb433474c86abc2705d\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\3cd4a98f1b86e352ccf2feb433474c86abc2705d\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\3cd4a98f1b86e352ccf2feb433474c86abc2705d\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\3cd4a98f1b86e352ccf2feb433474c86abc2705d\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\bfa893fd5b4572287467767f3dfcf301dcd40975\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/anim/design_bottom_sheet_slide_out.xml",
-        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/anim/design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\2332b9b81c0cb7fc7879cb0c1878b00f08e7e020\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\3cd4a98f1b86e352ccf2feb433474c86abc2705d\\output\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
-        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_fade_out.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
-        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_popup_enter.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
-        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_slide_out_top.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\2332b9b81c0cb7fc7879cb0c1878b00f08e7e020\\output\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/anim/design_snackbar_out.xml",
-        "source": "/Users/muhtar/.android/build-cache/2332b9b81c0cb7fc7879cb0c1878b00f08e7e020/output/res/anim/design_snackbar_out.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\3cd4a98f1b86e352ccf2feb433474c86abc2705d\\output\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\3cd4a98f1b86e352ccf2feb433474c86abc2705d\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\.android\\build-cache\\2332b9b81c0cb7fc7879cb0c1878b00f08e7e020\\output\\res\\anim\\design_snackbar_in.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
-        "source": "/Users/muhtar/.android/build-cache/3cd4a98f1b86e352ccf2feb433474c86abc2705d/output/res/anim/abc_fade_in.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\bfa893fd5b4572287467767f3dfcf301dcd40975\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/C:\\Users\\Toshiba-PC\\.android\\build-cache\\bfa893fd5b4572287467767f3dfcf301dcd40975\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\D:\\FamilyTask\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "/Users/muhtar/Downloads/FamilyTask/F:\\Users\\muhtar\\Downloads\\FamilyTask\\C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "F:\\contoh_ta1-penjadwalan_anak\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Toshiba-PC\\.android\\build-cache\\722dbd6a92e1aff12325c5aad31cb98d6c0772bd\\output\\res\\anim\\abc_slide_out_bottom.xml"
     }
 ]
